@@ -13,8 +13,9 @@ Repository description
 Numbers of stars for the repo.
 Username and avatar of the owner.
 As a User I should be able to keep scrolling and new results should appear (pagination).
-```
 #### Android Gradle
+```
+
 gradle
 dependencies {
     //paging
