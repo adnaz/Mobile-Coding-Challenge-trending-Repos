@@ -33,4 +33,4 @@ dependencies {
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
 }
 ## Mockups
-![alt text](https://github.com/adnaz/Mobile-Coding-Challenge-trending-Repos/blob/master/Capture.PNG?raw=true)
+![Screenshot](Capture.PNG)
