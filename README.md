@@ -13,7 +13,7 @@ Repository description
 Numbers of stars for the repo.
 Username and avatar of the owner.
 As a User I should be able to keep scrolling and new results should appear (pagination).
-
+`
 #### Android Gradle
 gradle
 dependencies {
@@ -32,6 +32,6 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:4.11.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
 }
-
+`
 #### Mockups
 ![Screenshot](Capture.PNG)
